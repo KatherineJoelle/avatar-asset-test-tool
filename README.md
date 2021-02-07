@@ -1,6 +1,6 @@
 # Decentraland Avatar Assets
 
-This repository contains the supporting assets for avatars in the Decentraland world.
+This repository contains the supporting assets for avatars in the Decentraland world.  
 
 ## Getting Started
 
